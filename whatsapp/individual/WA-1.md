@@ -9,7 +9,7 @@
 **Header Text:** A quiet minute with Victor Hugo 📖
 **CTA Button:** Read the story
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 176 words
+**Word count:** 162 words
 
 ---
 
@@ -18,7 +18,7 @@
 ```
 Bonjour {{BODY_1}} 📖
 
-Cross the Seine at dusk and stand across from Notre-Dame. The bells fade, the stone glows, and it is easy to picture a shy bell ringer high above the square. That is Quasimodo, and the cathedral was his home in Victor Hugo's *Notre-Dame de Paris*.
+Cross the Seine at dusk and stand across from Notre-Dame. The bells fade, the stone glows, and it is easy to picture a shy bell ringer high above the square. That is Quasimodo, the Hunchback of Notre-Dame, and the cathedral was his home in Victor Hugo's *Notre-Dame de Paris*.
 
 Hugo wrote it in 1831, partly to save the cathedral from being torn down. It worked. Parisians looked up again, and the restoration began.
 

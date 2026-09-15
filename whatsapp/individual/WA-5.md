@@ -20,7 +20,7 @@ Bonjour {{BODY_1}} 🇫🇷
 
 Picture a July afternoon in Paris. The Champs-Élysées is a sea of small flags: blue, white and red, waving in every hand. The tricolour is such a familiar sight that it is easy to forget it has a story.
 
-Blue and red were the colours of the city of Paris. White was the colour of the French monarchy. In July 1789, the mayor of Paris pinned white between the two Parisian colours on a cockade for General Lafayette. Three colours, one nation, in a single gesture.
+Blue and red were the colours of the city of Paris. White was the colour of the French monarchy. In July 1789, at the start of the French Revolution, the mayor of Paris pinned white between the two Parisian colours on a cockade for General Lafayette. Three colours, one nation, in a single gesture.
 
 Louis XVI wore it soon after, and the tricolour became the flag of a new France in 1794.
 

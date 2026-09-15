@@ -1,12 +1,12 @@
-# French Atelier · WhatsApp Batch of 8 (Content Brief WA-8-new-Briefs)
+# French Atelier · WhatsApp Batch of 8 — Full messages
 
-8 weekly WhatsApp drips per the CEO content brief. 6 pure content messages + 2 promo messages (WA-3 October, WA-4 November). Every message 150–200 words, 3 French words each, no em/en dashes, calm supportive tone. All CTAs land on **www.frenchatelierlive.com**.
-
+**Brand:** French Atelier by Acadomia
+**Live site (course info):** https://www.frenchatelierlive.com
 
 ---
 
-# marketing_content_victor_hugo_en · Victor Hugo, from the shadow of Notre-Dame
-**French Atelier by Acadomia · WhatsApp Message**
+# marketing_content_victor_hugo_en · A quiet minute with Victor Hugo
+**French Atelier by Acadomia - WhatsApp Message**
 
 ---
 
@@ -14,9 +14,9 @@
 **Code:** `wa-1`
 **Trigger:** Weekly content drip, message 1
 **Header Text:** A quiet minute with Victor Hugo 📖
-**CTA Button:** Read the story
+**CTA Button:** See the full story
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 176 words
+**Word count:** 166 words
 
 ---
 
@@ -25,11 +25,11 @@
 ```
 Bonjour {{BODY_1}} 📖
 
-Cross the Seine at dusk and stand across from Notre-Dame. The bells fade, the stone glows, and it is easy to picture a shy bell ringer high above the square. That is Quasimodo, and the cathedral was his home in Victor Hugo's *Notre-Dame de Paris*.
+Before your next French Atelier class, a small French moment.
 
-Hugo wrote it in 1831, partly to save the cathedral from being torn down. It worked. Parisians looked up again, and the restoration began.
+Stand across the Seine at dusk and look at Notre-Dame. The bells fade, the stone glows, and it is easy to picture a shy bell ringer high above the square. That is Quasimodo, the Hunchback of Notre-Dame, and the cathedral was his whole world in Victor Hugo's *Notre-Dame de Paris*.
 
-He also wrote *Les Misérables*, the story of Jean Valjean, hunger, forgiveness, and a barricade in the June heat of 1832. Two of the most loved stories in French literature, from one man.
+Hugo wrote it in 1831, partly to save the cathedral from being torn down. It worked. Parisians looked up again, and the restoration began. He also wrote *Les Misérables*, the story of Jean Valjean, hunger and forgiveness in 1832 Paris.
 
 A few words to carry with you:
 
@@ -39,21 +39,24 @@ A few words to carry with you:
 
 Fun fact: when Hugo died in 1885, two million people followed his funeral through Paris. More than the city's own population at the time.
 
-Tap below for a longer read on Hugo and his Paris.
+Ask your French Atelier teacher next class which Hugo line she loves most.
+
+Tap below for the full story, from your French Atelier teachers.
 ```
 
 ---
 
 ## Notes
 
-Follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` are Bird/CP-WhatsApp syntax. Header text 32/60 chars, button text 14/25 chars.
+This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 32/60 chars, button text 18/25 chars.
 
-- French Atelier by Acadomia · www.frenchatelierlive.com
+- French Atelier by Acadomia · hello@frenchatelierlive.com
+
 
 ---
 
-# marketing_content_amelie_en · Amélie, and the Paris she painted
-**French Atelier by Acadomia · WhatsApp Message**
+# marketing_content_amelie_en · One minute in Montmartre with Amélie
+**French Atelier by Acadomia - WhatsApp Message**
 
 ---
 
@@ -61,9 +64,9 @@ Follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}
 **Code:** `wa-2`
 **Trigger:** Weekly content drip, message 2
 **Header Text:** One minute in Montmartre 🎬
-**CTA Button:** Read the story
+**CTA Button:** See the full story
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 178 words
+**Word count:** 168 words
 
 ---
 
@@ -72,9 +75,11 @@ Follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}
 ```
 Bonjour {{BODY_1}} 🎬
 
-Walk up the cobbled stairs of Montmartre and you are already inside her film. The red awnings, the green café chairs, the little bakery on the corner. Amélie Poulain lived here in 2001, and half the world moved in with her.
+Between your French Atelier lessons, a soft Parisian pause.
 
-Audrey Tautou played her, a quiet Parisian waitress who decides, one small kindness at a time, to make people happier. Director Jean-Pierre Jeunet gave every scene a warm red and green glow, and suddenly Paris looked like a film set again.
+Walk up the cobbled stairs of Montmartre and you are already inside her film. Red awnings, green café chairs, the little bakery on the corner. Amélie Poulain lived here in 2001, and half the world quietly moved in with her.
+
+Audrey Tautou played her: a Parisian waitress who decides, one small kindness at a time, to make people happier. Director Jean-Pierre Jeunet gave every scene a warm red and green glow, and suddenly Paris looked like a film set again.
 
 Take a few of her words with you:
 
@@ -84,33 +89,34 @@ Take a few of her words with you:
 
 Fun fact: the real Café des 2 Moulins on rue Lepic still serves crème brûlée at the counter where Amélie worked. Locals sit there quite calmly, as if a movie never happened.
 
-Amélie is not just a film. It is a soft way of seeing Paris, and it fits French beautifully.
+Ask your French Atelier teacher for her favourite line from the film.
 
-Tap below to read on.
+Tap below for the full story, from your French Atelier teachers.
 ```
 
 ---
 
 ## Notes
 
-Follows Meta's WhatsApp Business template rules. Header text 22/60 chars, button text 14/25 chars.
+This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 27/60 chars, button text 18/25 chars.
 
-- French Atelier by Acadomia · www.frenchatelierlive.com
+- French Atelier by Acadomia · hello@frenchatelierlive.com
 
----
-
-# marketing_promo_photography_200_en · 200 years of photography, made in France
-**French Atelier by Acadomia · WhatsApp Message**
 
 ---
 
-**Category:** Marketing drip (weekly, content + promo · October campaign)
+# marketing_content_photography_200_en · 200 Years of Photography + Oct Promo
+**French Atelier by Acadomia - WhatsApp Message**
+
+---
+
+**Category:** Marketing drip (weekly, content + promo)
 **Code:** `wa-3`
 **Trigger:** Weekly content drip, message 3 (October promo)
 **Header Text:** 200 years of photography 📷
 **CTA Button:** Claim it now
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 184 words
+**Word count:** 169 words
 
 ---
 
@@ -119,11 +125,11 @@ Follows Meta's WhatsApp Business template rules. Header text 22/60 chars, button
 ```
 Bonjour {{BODY_1}} 📷
 
-This year, France is celebrating 200 years of photography, and the story begins in a very quiet place. In 1826, in a small village in Burgundy, Nicéphore Niépce placed a pewter plate in a wooden box and pointed it at the rooftops from his window.
+Between your French Atelier lessons, a small French moment.
 
-Eight hours later, he had the first surviving photograph in history. No filter, no screen, just light, silver and patience.
+This year, France is celebrating 200 years of photography. The story begins in a very quiet place.
 
-Every selfie today is a distant cousin of that grainy French rooftop.
+In 1826, in a small village in Burgundy, Nicéphore Niépce placed a pewter plate in a wooden box and pointed it at the rooftops from his window. Eight hours later, he had the first surviving photograph in history. No filter, no screen, just light, silver and patience. Every selfie today is a distant cousin of that grainy French rooftop.
 
 A few useful words for the moment:
 
@@ -131,9 +137,9 @@ A few useful words for the moment:
 🇫🇷 *la lumière* : the light
 🇫🇷 *une image* : an image
 
-Fun fact: Niépce called his process *héliographie*, from the Greek for sun writing. A very French way to name an invention.
+Fun fact: Niépce called his invention *héliographie*, from the Greek for sun writing. A very French way to name a machine.
 
-And if you would like to discover more of France through its language, enjoy 20% off your French course at French Atelier this October. All course details are on www.frenchatelierlive.com.
+And if you would like to discover more of France through its language this October, enjoy 20% off your French course at French Atelier. Live teachers, small classes, real Paris in every lesson.
 
 Tap below to claim your 20% now.
 ```
@@ -142,24 +148,25 @@ Tap below to claim your 20% now.
 
 ## Notes
 
-Follows Meta's WhatsApp Business template rules. Header text 26/60 chars, button text 12/25 chars.
+This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 27/60 chars, button text 12/25 chars. Promo separate at end per brief line 082.
 
-- French Atelier by Acadomia · www.frenchatelierlive.com
+- French Atelier by Acadomia · hello@frenchatelierlive.com
 
----
-
-# marketing_promo_novembre_numerique_en · Novembre Numérique, 10 years on
-**French Atelier by Acadomia · WhatsApp Message**
 
 ---
 
-**Category:** Marketing drip (weekly, content + promo · November campaign)
+# marketing_content_novembre_numerique_en · Novembre Numérique + Nov Promo
+**French Atelier by Acadomia - WhatsApp Message**
+
+---
+
+**Category:** Marketing drip (weekly, content + promo)
 **Code:** `wa-4`
 **Trigger:** Weekly content drip, message 4 (November promo)
 **Header Text:** Novembre Numérique · 10 years ✨
 **CTA Button:** Claim it now
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 183 words
+**Word count:** 170 words
 
 ---
 
@@ -168,11 +175,11 @@ Follows Meta's WhatsApp Business template rules. Header text 26/60 chars, button
 ```
 Bonjour {{BODY_1}} ✨
 
+Between your French Atelier lessons, a small French moment.
+
 Every November, the French cultural network lights up for Novembre Numérique, a month that celebrates digital culture and creativity across France and in French institutes around the world. 2026 marks its 10th edition.
 
-It brings artists, writers, coders and readers together around one simple idea: French culture and digital innovation are quietly building something new, side by side.
-
-Expect creative workshops, digital exhibitions, and readings that live as much online as they do on a stage.
+It brings artists, writers, coders and readers together around one simple idea: French culture and digital innovation are quietly building something beautiful, side by side. Expect creative workshops, digital exhibitions and readings that live as much online as they do on a stage.
 
 A few useful words for the moment:
 
@@ -180,7 +187,7 @@ A few useful words for the moment:
 🇫🇷 *la création* : creation
 🇫🇷 *une œuvre* : a work of art
 
-Every November, Novembre Numérique celebrates how digital technology is changing the way we create, experience culture, and learn. And if French is something you would like to learn in a new way, enjoy 20% off your online French course at French Atelier. Full course details on www.frenchatelierlive.com.
+Every November, Novembre Numérique celebrates how digital technology is changing the way we create, experience culture and learn. And if French is something you would like to learn in a new way, enjoy 20% off your online French course at French Atelier this November. Live teachers, small classes, one warm hour of Paris each week.
 
 Tap below to claim your 20% now.
 ```
@@ -189,14 +196,15 @@ Tap below to claim your 20% now.
 
 ## Notes
 
-Follows Meta's WhatsApp Business template rules. Header text 33/60 chars, button text 12/25 chars.
+This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 33/60 chars, button text 12/25 chars. Promo separate at end per brief line 104.
 
-- French Atelier by Acadomia · www.frenchatelierlive.com
+- French Atelier by Acadomia · hello@frenchatelierlive.com
+
 
 ---
 
-# marketing_content_tricolour_en · The story of the French tricolour
-**French Atelier by Acadomia · WhatsApp Message**
+# marketing_content_tricolour_en · The story behind blue, white and red
+**French Atelier by Acadomia - WhatsApp Message**
 
 ---
 
@@ -204,9 +212,9 @@ Follows Meta's WhatsApp Business template rules. Header text 33/60 chars, button
 **Code:** `wa-5`
 **Trigger:** Weekly content drip, message 5
 **Header Text:** Blue, white and red · a story 🇫🇷
-**CTA Button:** Read the story
+**CTA Button:** See the full story
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 175 words
+**Word count:** 174 words
 
 ---
 
@@ -215,11 +223,11 @@ Follows Meta's WhatsApp Business template rules. Header text 33/60 chars, button
 ```
 Bonjour {{BODY_1}} 🇫🇷
 
+Before your next French Atelier class, a small French symbol.
+
 Picture a July afternoon in Paris. The Champs-Élysées is a sea of small flags: blue, white and red, waving in every hand. The tricolour is such a familiar sight that it is easy to forget it has a story.
 
-Blue and red were the colours of the city of Paris. White was the colour of the French monarchy. In July 1789, the mayor of Paris pinned white between the two Parisian colours on a cockade for General Lafayette. Three colours, one nation, in a single gesture.
-
-Louis XVI wore it soon after, and the tricolour became the flag of a new France in 1794.
+Blue and red were the colours of the city of Paris. White was the colour of the French monarchy. In July 1789, at the start of the French Revolution, the mayor of Paris pinned white between the two Parisian colours on a cockade for General Lafayette. Three colours, one nation, in a single gesture. Louis XVI wore it soon after, and the tricolour became the flag of a new France in 1794.
 
 A few useful words for the day:
 
@@ -227,23 +235,24 @@ A few useful words for the day:
 🇫🇷 *la liberté* : freedom
 🇫🇷 *bleu, blanc, rouge* : blue, white, red
 
-Fun fact: the three stripes are equal today, but the very first flags had a slightly wider blue. A small painter's choice, still visible in old prints.
+Fun fact: the three stripes are equal today, but the very first flags had a slightly wider blue.
 
-Tap below for the full story.
+Tap below for the full story, from your French Atelier teachers.
 ```
 
 ---
 
 ## Notes
 
-Follows Meta's WhatsApp Business template rules. Header text 32/60 chars, button text 14/25 chars.
+This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 32/60 chars, button text 18/25 chars.
 
-- French Atelier by Acadomia · www.frenchatelierlive.com
+- French Atelier by Acadomia · hello@frenchatelierlive.com
+
 
 ---
 
-# marketing_content_monet_en · A quiet walk with Claude Monet
-**French Atelier by Acadomia · WhatsApp Message**
+# marketing_content_monet_en · A quiet minute with Monet
+**French Atelier by Acadomia - WhatsApp Message**
 
 ---
 
@@ -251,9 +260,9 @@ Follows Meta's WhatsApp Business template rules. Header text 32/60 chars, button
 **Code:** `wa-6`
 **Trigger:** Weekly content drip, message 6
 **Header Text:** A quiet minute with Monet 🎨
-**CTA Button:** Read the story
+**CTA Button:** See the full story
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 156 words
+**Word count:** 174 words
 
 ---
 
@@ -262,7 +271,9 @@ Follows Meta's WhatsApp Business template rules. Header text 32/60 chars, button
 ```
 Bonjour {{BODY_1}} 🎨
 
-Step into the Musée Marmottan Monet, in the calm 16th arrondissement of Paris. The floors are quiet, the walls a soft cream. Turn one corner and there it is: *Impression, soleil levant*, the little harbour view that gave a whole movement its name in 1874.
+Between your French Atelier lessons, a walk through a very quiet Paris museum.
+
+Step into the Musée Marmottan Monet, in the calm 16th arrondissement. The floors are quiet, the walls a soft cream. Turn one corner and there it is: *Impression, soleil levant*, the little harbour view that gave a whole movement its name in 1874.
 
 Walk slowly. Water lilies drift across the next room, willows lean over a soft green Japanese bridge, a single haystack quietly changes colour hour by hour. Monet was not painting things. He was painting the light on the things.
 
@@ -272,23 +283,24 @@ A few useful words as you walk:
 🇫🇷 *un reflet* : a reflection
 🇫🇷 *un paysage* : a landscape
 
-Fun fact: Monet planted his own garden at Giverny before he painted it. The pond, the bridge, the water lilies, all his. The paintings are, in a way, quiet portraits of a garden he grew himself with his own hands.
+Fun fact: Monet planted the whole garden at Giverny himself before he painted it. The pond, the bridge, the water lilies, all his. The paintings are, in a way, portraits of a garden he grew with his own hands.
 
-Tap below for a longer read on Monet and his light.
+Tap below for the full story, from your French Atelier teachers.
 ```
 
 ---
 
 ## Notes
 
-Follows Meta's WhatsApp Business template rules. Header text 27/60 chars, button text 14/25 chars.
+This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 29/60 chars, button text 18/25 chars.
 
-- French Atelier by Acadomia · www.frenchatelierlive.com
+- French Atelier by Acadomia · hello@frenchatelierlive.com
+
 
 ---
 
-# marketing_content_quiche_lorraine_en · A cooking class in Lorraine
-**French Atelier by Acadomia · WhatsApp Message**
+# marketing_content_quiche_lorraine_en · Quiche Lorraine, warm from the oven
+**French Atelier by Acadomia - WhatsApp Message**
 
 ---
 
@@ -296,9 +308,9 @@ Follows Meta's WhatsApp Business template rules. Header text 27/60 chars, button
 **Code:** `wa-7`
 **Trigger:** Weekly content drip, message 7
 **Header Text:** Quiche Lorraine, warm from the oven 🥧
-**CTA Button:** Read the story
+**CTA Button:** See the full story
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 158 words
+**Word count:** 173 words
 
 ---
 
@@ -306,6 +318,8 @@ Follows Meta's WhatsApp Business template rules. Header text 27/60 chars, button
 
 ```
 Bonjour {{BODY_1}} 🥧
+
+Between your French Atelier lessons, a French kitchen story.
 
 Imagine a stone farmhouse in Lorraine, in the east of France. Flour dusts the wooden table, the oven hums, and a Quiche Lorraine slides out golden, still bubbling in its tin.
 
@@ -319,23 +333,24 @@ A few useful words at the table:
 
 Fun fact: the traditional Lorraine recipe has no cheese at all. Gruyère quietly slipped in over time. Purists in Metz and Nancy still argue about it, kindly, over a second slice of the same quiche.
 
-Cooking is another way to speak French. The vocabulary tastes better warm.
+Ask your French Atelier teacher how her family makes theirs.
 
-Tap below for the full story.
+Tap below for the full story, from your French Atelier teachers.
 ```
 
 ---
 
 ## Notes
 
-Follows Meta's WhatsApp Business template rules. Header text 38/60 chars, button text 14/25 chars.
+This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 38/60 chars, button text 18/25 chars.
 
-- French Atelier by Acadomia · www.frenchatelierlive.com
+- French Atelier by Acadomia · hello@frenchatelierlive.com
+
 
 ---
 
-# marketing_content_tour_de_france_en · A mountain stage in the Pyrenees
-**French Atelier by Acadomia · WhatsApp Message**
+# marketing_content_tour_de_france_en · The Tour, high in the Pyrenees
+**French Atelier by Acadomia - WhatsApp Message**
 
 ---
 
@@ -343,9 +358,9 @@ Follows Meta's WhatsApp Business template rules. Header text 38/60 chars, button
 **Code:** `wa-8`
 **Trigger:** Weekly content drip, message 8
 **Header Text:** The Tour, high in the Pyrenees 🚴
-**CTA Button:** Read the story
+**CTA Button:** See the full story
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 181 words
+**Word count:** 173 words
 
 ---
 
@@ -353,6 +368,8 @@ Follows Meta's WhatsApp Business template rules. Header text 38/60 chars, button
 
 ```
 Bonjour {{BODY_1}} 🚴
+
+Between your French Atelier lessons, a moment on a French mountain road.
 
 High in the Pyrenees, the road narrows and the air thins. Villagers line the pass with cowbells and small flags. A hush, then a flash of colour: yellow, polka-dots, green, all climbing together into the clouds. This is the Tour de France on a mountain stage.
 
@@ -366,15 +383,19 @@ A few useful words as the peloton passes:
 
 Fun fact: the yellow jersey is yellow because the newspaper that created the Tour, *L'Auto*, was printed on bright yellow paper. A colour chosen by a publisher, worn by legends.
 
-The Tour is French in the deepest sense: patient, dramatic, and shared out loud.
+Ask your French Atelier teacher which stage she loves most.
 
-Tap below for a longer read on the Tour.
+Tap below for the full story, from your French Atelier teachers.
 ```
 
 ---
 
 ## Notes
 
-Follows Meta's WhatsApp Business template rules. Header text 32/60 chars, button text 14/25 chars.
+This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 33/60 chars, button text 18/25 chars.
 
-- French Atelier by Acadomia · www.frenchatelierlive.com
+- French Atelier by Acadomia · hello@frenchatelierlive.com
+
+
+---
+

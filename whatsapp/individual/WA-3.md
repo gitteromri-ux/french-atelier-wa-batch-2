@@ -1,15 +1,15 @@
-# marketing_promo_photography_200_en · 200 years of photography, made in France
-**French Atelier by Acadomia · WhatsApp Message**
+# marketing_content_photography_200_en · 200 Years of Photography + Oct Promo
+**French Atelier by Acadomia - WhatsApp Message**
 
 ---
 
-**Category:** Marketing drip (weekly, content + promo · October campaign)
+**Category:** Marketing drip (weekly, content + promo)
 **Code:** `wa-3`
 **Trigger:** Weekly content drip, message 3 (October promo)
 **Header Text:** 200 years of photography 📷
 **CTA Button:** Claim it now
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 184 words
+**Word count:** 169 words
 
 ---
 
@@ -18,11 +18,11 @@
 ```
 Bonjour {{BODY_1}} 📷
 
-This year, France is celebrating 200 years of photography, and the story begins in a very quiet place. In 1826, in a small village in Burgundy, Nicéphore Niépce placed a pewter plate in a wooden box and pointed it at the rooftops from his window.
+Between your French Atelier lessons, a small French moment.
 
-Eight hours later, he had the first surviving photograph in history. No filter, no screen, just light, silver and patience.
+This year, France is celebrating 200 years of photography. The story begins in a very quiet place.
 
-Every selfie today is a distant cousin of that grainy French rooftop.
+In 1826, in a small village in Burgundy, Nicéphore Niépce placed a pewter plate in a wooden box and pointed it at the rooftops from his window. Eight hours later, he had the first surviving photograph in history. No filter, no screen, just light, silver and patience. Every selfie today is a distant cousin of that grainy French rooftop.
 
 A few useful words for the moment:
 
@@ -30,9 +30,9 @@ A few useful words for the moment:
 🇫🇷 *la lumière* : the light
 🇫🇷 *une image* : an image
 
-Fun fact: Niépce called his process *héliographie*, from the Greek for sun writing. A very French way to name an invention.
+Fun fact: Niépce called his invention *héliographie*, from the Greek for sun writing. A very French way to name a machine.
 
-And if you would like to discover more of France through its language, enjoy 20% off your French course at French Atelier this October. All course details are on www.frenchatelierlive.com.
+And if you would like to discover more of France through its language this October, enjoy 20% off your French course at French Atelier. Live teachers, small classes, real Paris in every lesson.
 
 Tap below to claim your 20% now.
 ```
@@ -41,6 +41,6 @@ Tap below to claim your 20% now.
 
 ## Notes
 
-Follows Meta's WhatsApp Business template rules. Header text 26/60 chars, button text 12/25 chars.
+This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 27/60 chars, button text 12/25 chars. Promo separate at end per brief line 082.
 
-- French Atelier by Acadomia · www.frenchatelierlive.com
+- French Atelier by Acadomia · hello@frenchatelierlive.com

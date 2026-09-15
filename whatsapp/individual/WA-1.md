@@ -1,5 +1,5 @@
-# marketing_content_victor_hugo_en · Victor Hugo, from the shadow of Notre-Dame
-**French Atelier by Acadomia · WhatsApp Message**
+# marketing_content_victor_hugo_en · A quiet minute with Victor Hugo
+**French Atelier by Acadomia - WhatsApp Message**
 
 ---
 
@@ -7,9 +7,9 @@
 **Code:** `wa-1`
 **Trigger:** Weekly content drip, message 1
 **Header Text:** A quiet minute with Victor Hugo 📖
-**CTA Button:** Read the story
+**CTA Button:** See the full story
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 162 words
+**Word count:** 166 words
 
 ---
 
@@ -18,11 +18,11 @@
 ```
 Bonjour {{BODY_1}} 📖
 
-Cross the Seine at dusk and stand across from Notre-Dame. The bells fade, the stone glows, and it is easy to picture a shy bell ringer high above the square. That is Quasimodo, the Hunchback of Notre-Dame, and the cathedral was his home in Victor Hugo's *Notre-Dame de Paris*.
+Before your next French Atelier class, a small French moment.
 
-Hugo wrote it in 1831, partly to save the cathedral from being torn down. It worked. Parisians looked up again, and the restoration began.
+Stand across the Seine at dusk and look at Notre-Dame. The bells fade, the stone glows, and it is easy to picture a shy bell ringer high above the square. That is Quasimodo, the Hunchback of Notre-Dame, and the cathedral was his whole world in Victor Hugo's *Notre-Dame de Paris*.
 
-He also wrote *Les Misérables*, the story of Jean Valjean, hunger, forgiveness, and a barricade in the June heat of 1832. Two of the most loved stories in French literature, from one man.
+Hugo wrote it in 1831, partly to save the cathedral from being torn down. It worked. Parisians looked up again, and the restoration began. He also wrote *Les Misérables*, the story of Jean Valjean, hunger and forgiveness in 1832 Paris.
 
 A few words to carry with you:
 
@@ -32,13 +32,15 @@ A few words to carry with you:
 
 Fun fact: when Hugo died in 1885, two million people followed his funeral through Paris. More than the city's own population at the time.
 
-Tap below for a longer read on Hugo and his Paris.
+Ask your French Atelier teacher next class which Hugo line she loves most.
+
+Tap below for the full story, from your French Atelier teachers.
 ```
 
 ---
 
 ## Notes
 
-Follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` are Bird/CP-WhatsApp syntax. Header text 32/60 chars, button text 14/25 chars.
+This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 32/60 chars, button text 18/25 chars.
 
-- French Atelier by Acadomia · www.frenchatelierlive.com
+- French Atelier by Acadomia · hello@frenchatelierlive.com

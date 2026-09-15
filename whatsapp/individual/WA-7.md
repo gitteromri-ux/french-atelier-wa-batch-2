@@ -1,5 +1,5 @@
-# marketing_content_quiche_lorraine_en · A cooking class in Lorraine
-**French Atelier by Acadomia · WhatsApp Message**
+# marketing_content_quiche_lorraine_en · Quiche Lorraine, warm from the oven
+**French Atelier by Acadomia - WhatsApp Message**
 
 ---
 
@@ -7,9 +7,9 @@
 **Code:** `wa-7`
 **Trigger:** Weekly content drip, message 7
 **Header Text:** Quiche Lorraine, warm from the oven 🥧
-**CTA Button:** Read the story
+**CTA Button:** See the full story
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 158 words
+**Word count:** 173 words
 
 ---
 
@@ -17,6 +17,8 @@
 
 ```
 Bonjour {{BODY_1}} 🥧
+
+Between your French Atelier lessons, a French kitchen story.
 
 Imagine a stone farmhouse in Lorraine, in the east of France. Flour dusts the wooden table, the oven hums, and a Quiche Lorraine slides out golden, still bubbling in its tin.
 
@@ -30,15 +32,15 @@ A few useful words at the table:
 
 Fun fact: the traditional Lorraine recipe has no cheese at all. Gruyère quietly slipped in over time. Purists in Metz and Nancy still argue about it, kindly, over a second slice of the same quiche.
 
-Cooking is another way to speak French. The vocabulary tastes better warm.
+Ask your French Atelier teacher how her family makes theirs.
 
-Tap below for the full story.
+Tap below for the full story, from your French Atelier teachers.
 ```
 
 ---
 
 ## Notes
 
-Follows Meta's WhatsApp Business template rules. Header text 38/60 chars, button text 14/25 chars.
+This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 38/60 chars, button text 18/25 chars.
 
-- French Atelier by Acadomia · www.frenchatelierlive.com
+- French Atelier by Acadomia · hello@frenchatelierlive.com

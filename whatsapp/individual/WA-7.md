@@ -1,43 +1,46 @@
-# marketing_content_quiche_lorraine_b2_en · Make a quiche in Lorraine 🥧
-**French Atelier by Acadomia - WhatsApp Batch 2**
+# marketing_content_quiche_lorraine_b2_en · A taste of quiche Lorraine
+French Atelier by Acadomia · WhatsApp Batch 2
 
 **Category:** Marketing drip (weekly, content)
 **Code:** `b2-wa-7`
 **Trigger:** Weekly content drip, Batch 2, message 7
-**Header Text:** Make a quiche in Lorraine 🥧
-**CTA Button:** Visit French Atelier
+**Header Text:** A taste of quiche Lorraine
+**CTA Button:** About French Atelier
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 162
-**Body characters:** 957
-**Image:** images/wa-7-quiche-lorraine.jpg · 1792×897
+**Word count:** 161
+**Body characters:** 900 · UTF-16 units: 901
+**Image:** images/wa-7-quiche-lorraine.jpg · 1792 × 897
+**Upscaled master:** images-4k/wa-7-quiche-lorraine.jpg · 4096 × 2050
+
+---
 
 ## Message body
 
 ```
 Bonjour {{BODY_1}} 🥧
+*A taste of quiche Lorraine*
+From French Atelier by Acadomia, your live online French school.
 
-In a cooking class in Lorraine, in northeastern France, you press pastry into a tin while small pieces of bacon sizzle nearby. On the table, eggs and cream are ready to become the filling.
+Imagine joining a cooking class in Lorraine, in northeastern France. You press pastry into a tin while eggs and cream wait on the table beside you.
 
-As the quiche bakes, the pastry turns golden and a savoury aroma fills the room. Your first bite brings crisp edges and a soft, creamy centre. It is a useful moment to connect French words with something you can touch, smell and taste.
+Eggs, cream and bacon fill the pastry, sending a rich, savoury scent through the room as the crust turns crisp around a soft centre.
 
-Three ingredients to remember:
+Three words for the table: *la pâte* means pastry, *les œufs* eggs, and *la crème* cream. Say each one as you think of the ingredient, then try to name it without looking.
 
-🇫🇷 *la pâte* : pastry
-🇫🇷 *les œufs* : eggs
-🇫🇷 *la crème* : cream
+Fun fact: early quiche Lorraine was made with bread dough rather than the pastry commonly used today.
 
-Fun fact: traditional quiche Lorraine is made without cheese. The familiar combination is pastry, eggs, cream and bacon.
+What dish do you make at home? Pick three ingredients and try to name them in French. You do not need to explain each step of the recipe. Start with what goes into the dish.
 
-Think about a dish you prepare at home. Can you name three ingredients in French? Practise saying them before your next French Atelier class, then ask your teacher about any words you are missing. There is no need to explain the whole recipe; a short description is a good place to start.
+Find out who we are on the French Atelier website.
 ```
 
-## Production fields
+---
 
-- Header: 27/60 characters.
-- Button: 20/25 characters.
-- Personalisation: `{{BODY_1}}` retained from Batch 1.
-- Image: the approved Batch 1 asset, unchanged.
-- CTA destination: the verified French Atelier website; no unpublished story page is implied.
-- Offer for messages 3 and 4: 20% in October and November respectively, as supplied in the brief.
+## Notes
 
-French Atelier by Acadomia · hello@frenchatelierlive.com
+- Image is the sole Meta header component. The Header Text above is an editorial headline included in the body count, not an additional TEXT header.
+- Personalisation token {{BODY_1}} is retained from the approved handoff. The receiving platform must confirm its mapping; this file is not a validated API payload.
+- Sender identity shown in the gallery is a preview; the actual WhatsApp Business profile has not been checked.
+- The image preserves the approved Batch 1 composition with brighter tonal treatment. The 4096 × 2050 master is upscaled, not native 4K.
+- CTA opens the school homepage. The label describes the destination; it does not promise a full story, video, recipe or separate lesson.
+- No ActiveCampaign fields, automations, recipients or schedules have been changed.

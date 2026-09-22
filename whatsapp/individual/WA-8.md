@@ -1,43 +1,46 @@
-# marketing_content_tour_de_france_b2_en · Follow the Tour into the Pyrenees 🚴
-**French Atelier by Acadomia - WhatsApp Batch 2**
+# marketing_content_tour_de_france_b2_en · The Tour de France in the Pyrenees
+French Atelier by Acadomia · WhatsApp Batch 2
 
 **Category:** Marketing drip (weekly, content)
 **Code:** `b2-wa-8`
 **Trigger:** Weekly content drip, Batch 2, message 8
-**Header Text:** Follow the Tour into the Pyrenees 🚴
-**CTA Button:** Visit French Atelier
+**Header Text:** The Tour de France in the Pyrenees
+**CTA Button:** About French Atelier
 **CTA URL/Action:** https://www.frenchatelierlive.com
 **Word count:** 162
-**Body characters:** 952
-**Image:** images/wa-8-tour-de-france.jpg · 1792×897
+**Body characters:** 874 · UTF-16 units: 875
+**Image:** images/wa-8-tour-de-france.jpg · 1792 × 897
+**Upscaled master:** images-4k/wa-8-tour-de-france.jpg · 4096 × 2050
+
+---
 
 ## Message body
 
 ```
 Bonjour {{BODY_1}} 🚴
+*The Tour de France in the Pyrenees*
+From French Atelier by Acadomia, your live online French school.
 
-You're waiting beside a mountain road in the Pyrenees. People clap as the first riders round a bend. Behind them, the road drops towards the valley. For spectators, a Tour de France stage is also a day spent together outdoors.
+Beside a road in the Pyrenees, the crowd waits for the Tour de France. A rider on *un vélo*, a bicycle, rounds the bend. Ahead lies *un sommet*, a summit, and a long climb.
 
-Look for the distinctive jerseys in the group. Yellow marks the overall leader, green the points leader, and white with red polka dots the leader of the mountains classification. Each colour tells you something different about the race.
+You spot *un maillot*, a jersey, bright against the hills. Yellow marks the overall leader. Fans cheer as the riders pass, then turn to watch the next group come into view.
 
-Three words to practise before your next French Atelier class:
+The Tour is more than a race. It brings towns, families and friends to the roadside and puts France's landscapes at the heart of a shared summer tradition.
 
-🇫🇷 *un vélo* : a bicycle
-🇫🇷 *un sommet* : a summit
-🇫🇷 *un maillot* : a jersey
+Fun fact: the Tour first reached the high mountains of the Pyrenees in 1910.
 
-Fun fact: the Tour first took riders into the high mountains of the Pyrenees in 1910.
+Would you watch on a hill or in a town? Try to give one reason in French. Think of the view, the crowd or the ride.
 
-Families and friends gather along the route to cheer the riders on. Would you choose a mountain stage or a finish in town? Try giving one reason in French. Your teacher can help you describe the setting, even if cycling is new to you.
+Find out who we are on the French Atelier website.
 ```
 
-## Production fields
+---
 
-- Header: 35/60 characters.
-- Button: 20/25 characters.
-- Personalisation: `{{BODY_1}}` retained from Batch 1.
-- Image: the approved Batch 1 asset, unchanged.
-- CTA destination: the verified French Atelier website; no unpublished story page is implied.
-- Offer for messages 3 and 4: 20% in October and November respectively, as supplied in the brief.
+## Notes
 
-French Atelier by Acadomia · hello@frenchatelierlive.com
+- Image is the sole Meta header component. The Header Text above is an editorial headline included in the body count, not an additional TEXT header.
+- Personalisation token {{BODY_1}} is retained from the approved handoff. The receiving platform must confirm its mapping; this file is not a validated API payload.
+- Sender identity shown in the gallery is a preview; the actual WhatsApp Business profile has not been checked.
+- The image preserves the approved Batch 1 composition with brighter tonal treatment. The 4096 × 2050 master is upscaled, not native 4K.
+- CTA opens the school homepage. The label describes the destination; it does not promise a full story, video, recipe or separate lesson.
+- No ActiveCampaign fields, automations, recipients or schedules have been changed.

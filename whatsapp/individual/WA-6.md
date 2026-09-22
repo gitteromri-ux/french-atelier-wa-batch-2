@@ -1,43 +1,46 @@
-# marketing_content_monet_b2_en · See light differently with Monet 🎨
-**French Atelier by Acadomia - WhatsApp Batch 2**
+# marketing_content_monet_b2_en · Claude Monet: water and light
+French Atelier by Acadomia · WhatsApp Batch 2
 
 **Category:** Marketing drip (weekly, content)
 **Code:** `b2-wa-6`
 **Trigger:** Weekly content drip, Batch 2, message 6
-**Header Text:** See light differently with Monet 🎨
-**CTA Button:** Visit French Atelier
+**Header Text:** Claude Monet: water and light
+**CTA Button:** About French Atelier
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 158
-**Body characters:** 966
-**Image:** images/wa-6-monet-painting.jpg · 1792×897
+**Word count:** 160
+**Body characters:** 881 · UTF-16 units: 882
+**Image:** images/wa-6-monet-painting.jpg · 1792 × 897
+**Upscaled master:** images-4k/wa-6-monet-painting.jpg · 4096 × 2050
+
+---
 
 ## Message body
 
 ```
 Bonjour {{BODY_1}} 🎨
+*Claude Monet: water and light*
+From French Atelier by Acadomia, your live online French school.
 
-Walk through the Musée Marmottan Monet in Paris and pause before Impression, Sunrise. A small orange sun hangs over the harbour. Boats and reflections emerge from loose touches of colour rather than sharp outlines.
+Walk through the Musée Marmottan Monet in Paris. As you look at Monet's work, notice how water and light can guide your eye. A patch of colour may say more than a sharp line.
 
-Claude Monet was interested in how a place looks at a particular moment. Light changes, water moves, and the same view can feel different a little later. Looking closely at his painting gives you something simple to describe, even with a few French words.
+Monet painted the way a view feels at a moment in time. Light shifts, water moves and a scene you know can seem new. You can look for those changes without knowing much about art.
 
-Try these in your next French Atelier conversation:
+Three words to try: *la lumière* means light, *un reflet* a reflection, and *un paysage* a landscape.
 
-🇫🇷 *la lumière* : light
-🇫🇷 *un reflet* : a reflection
-🇫🇷 *un paysage* : a landscape
+Fun fact: the title of Monet's painting Impression, Sunrise helped give Impressionism its name after the 1874 show.
 
-Fun fact: the title of Impression, Sunrise inspired the name Impressionism after the painting appeared in an exhibition in 1874.
+Look out of a window. Is the light soft or bright? Pick one small detail and try to name it in French. A simple word is a good start.
 
-Look out of a window now. Is the light bright or soft? Can you see a reflection? Choose one detail and describe it aloud. Your French Atelier teacher can help you find the words to describe what you see.
+Find out who we are on the French Atelier website.
 ```
 
-## Production fields
+---
 
-- Header: 34/60 characters.
-- Button: 20/25 characters.
-- Personalisation: `{{BODY_1}}` retained from Batch 1.
-- Image: the approved Batch 1 asset, unchanged.
-- CTA destination: the verified French Atelier website; no unpublished story page is implied.
-- Offer for messages 3 and 4: 20% in October and November respectively, as supplied in the brief.
+## Notes
 
-French Atelier by Acadomia · hello@frenchatelierlive.com
+- Image is the sole Meta header component. The Header Text above is an editorial headline included in the body count, not an additional TEXT header.
+- Personalisation token {{BODY_1}} is retained from the approved handoff. The receiving platform must confirm its mapping; this file is not a validated API payload.
+- Sender identity shown in the gallery is a preview; the actual WhatsApp Business profile has not been checked.
+- The image preserves the approved Batch 1 composition with brighter tonal treatment. The 4096 × 2050 master is upscaled, not native 4K.
+- CTA opens the school homepage. The label describes the destination; it does not promise a full story, video, recipe or separate lesson.
+- No ActiveCampaign fields, automations, recipients or schedules have been changed.

@@ -1,5 +1,3 @@
 # French Atelier WhatsApp Batch 2
 
-Eight new messages based on the same approved eight-topic brief. Approved Batch 1 imagery and brand presentation are retained. Batch 1 remains unchanged.
-
-Open index.html for previews and individual message downloads.
+Revised content handoff. See audit.md for the complete original-versus-revised Q&A audit and outstanding launch checks. This is not an approved or sent campaign.

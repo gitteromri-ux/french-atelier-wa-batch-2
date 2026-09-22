@@ -1,0 +1,294 @@
+{
+  "copy": [
+    {
+      "message": 1,
+      "batch1_words": 169,
+      "batch1_characters": 1002,
+      "batch1_utf16": 1009,
+      "original_batch2_words": 158,
+      "original_batch2_characters": 979,
+      "original_batch2_utf16": 986,
+      "revised_words": 156,
+      "revised_characters": 882,
+      "revised_utf16": 883,
+      "revised_header_characters": 26,
+      "revised_button_characters": 20,
+      "revised_40_character_name_utf16": 913
+    },
+    {
+      "message": 2,
+      "batch1_words": 164,
+      "batch1_characters": 955,
+      "batch1_utf16": 962,
+      "original_batch2_words": 156,
+      "original_batch2_characters": 947,
+      "original_batch2_utf16": 954,
+      "revised_words": 157,
+      "revised_characters": 839,
+      "revised_utf16": 840,
+      "revised_header_characters": 20,
+      "revised_button_characters": 20,
+      "revised_40_character_name_utf16": 870
+    },
+    {
+      "message": 3,
+      "batch1_words": 167,
+      "batch1_characters": 1001,
+      "batch1_utf16": 1008,
+      "original_batch2_words": 156,
+      "original_batch2_characters": 956,
+      "original_batch2_utf16": 963,
+      "revised_words": 157,
+      "revised_characters": 865,
+      "revised_utf16": 866,
+      "revised_header_characters": 28,
+      "revised_button_characters": 12,
+      "revised_40_character_name_utf16": 896
+    },
+    {
+      "message": 4,
+      "batch1_words": 169,
+      "batch1_characters": 1079,
+      "batch1_utf16": 1085,
+      "original_batch2_words": 161,
+      "original_batch2_characters": 986,
+      "original_batch2_utf16": 993,
+      "revised_words": 161,
+      "revised_characters": 888,
+      "revised_utf16": 889,
+      "revised_header_characters": 18,
+      "revised_button_characters": 12,
+      "revised_40_character_name_utf16": 919
+    },
+    {
+      "message": 5,
+      "batch1_words": 172,
+      "batch1_characters": 971,
+      "batch1_utf16": 979,
+      "original_batch2_words": 163,
+      "original_batch2_characters": 991,
+      "original_batch2_utf16": 999,
+      "revised_words": 158,
+      "revised_characters": 877,
+      "revised_utf16": 879,
+      "revised_header_characters": 15,
+      "revised_button_characters": 20,
+      "revised_40_character_name_utf16": 909
+    },
+    {
+      "message": 6,
+      "batch1_words": 166,
+      "batch1_characters": 977,
+      "batch1_utf16": 984,
+      "original_batch2_words": 158,
+      "original_batch2_characters": 966,
+      "original_batch2_utf16": 973,
+      "revised_words": 160,
+      "revised_characters": 881,
+      "revised_utf16": 882,
+      "revised_header_characters": 29,
+      "revised_button_characters": 20,
+      "revised_40_character_name_utf16": 912
+    },
+    {
+      "message": 7,
+      "batch1_words": 167,
+      "batch1_characters": 966,
+      "batch1_utf16": 973,
+      "original_batch2_words": 162,
+      "original_batch2_characters": 957,
+      "original_batch2_utf16": 964,
+      "revised_words": 161,
+      "revised_characters": 900,
+      "revised_utf16": 901,
+      "revised_header_characters": 26,
+      "revised_button_characters": 20,
+      "revised_40_character_name_utf16": 931
+    },
+    {
+      "message": 8,
+      "batch1_words": 168,
+      "batch1_characters": 1023,
+      "batch1_utf16": 1030,
+      "original_batch2_words": 162,
+      "original_batch2_characters": 952,
+      "original_batch2_utf16": 959,
+      "revised_words": 162,
+      "revised_characters": 874,
+      "revised_utf16": 875,
+      "revised_header_characters": 34,
+      "revised_button_characters": 20,
+      "revised_40_character_name_utf16": 905
+    }
+  ],
+  "images": [
+    {
+      "message": 1,
+      "file": "wa-1-notredame-hugo.jpg",
+      "original_size": [
+        1792,
+        897
+      ],
+      "export_size": [
+        1792,
+        897
+      ],
+      "master_size": [
+        4096,
+        2050
+      ],
+      "master_type": "upscaled and relit from approved source; not native 4K",
+      "mean_luma_before": 43.56,
+      "mean_luma_after": 100.77,
+      "master_bytes": 3894736,
+      "export_bytes": 938636
+    },
+    {
+      "message": 2,
+      "file": "wa-2-amelie-montmartre.jpg",
+      "original_size": [
+        1792,
+        897
+      ],
+      "export_size": [
+        1792,
+        897
+      ],
+      "master_size": [
+        4096,
+        2050
+      ],
+      "master_type": "upscaled and relit from approved source; not native 4K",
+      "mean_luma_before": 78.18,
+      "mean_luma_after": 118.12,
+      "master_bytes": 3854657,
+      "export_bytes": 925323
+    },
+    {
+      "message": 3,
+      "file": "wa-3-photography-200years.jpg",
+      "original_size": [
+        1792,
+        897
+      ],
+      "export_size": [
+        1792,
+        897
+      ],
+      "master_size": [
+        4096,
+        2050
+      ],
+      "master_type": "upscaled and relit from approved source; not native 4K",
+      "mean_luma_before": 101.07,
+      "mean_luma_after": 137.43,
+      "master_bytes": 3548877,
+      "export_bytes": 839159
+    },
+    {
+      "message": 4,
+      "file": "wa-4-novembre-numerique.jpg",
+      "original_size": [
+        1792,
+        897
+      ],
+      "export_size": [
+        1792,
+        897
+      ],
+      "master_size": [
+        4096,
+        2050
+      ],
+      "master_type": "upscaled and relit from approved source; not native 4K",
+      "mean_luma_before": 84.04,
+      "mean_luma_after": 133.05,
+      "master_bytes": 3983144,
+      "export_bytes": 1001003
+    },
+    {
+      "message": 5,
+      "file": "wa-5-french-flag-crowd.jpg",
+      "original_size": [
+        1792,
+        897
+      ],
+      "export_size": [
+        1792,
+        897
+      ],
+      "master_size": [
+        4096,
+        2050
+      ],
+      "master_type": "upscaled and relit from approved source; not native 4K",
+      "mean_luma_before": 131.76,
+      "mean_luma_after": 146.53,
+      "master_bytes": 3736882,
+      "export_bytes": 923796
+    },
+    {
+      "message": 6,
+      "file": "wa-6-monet-painting.jpg",
+      "original_size": [
+        1792,
+        897
+      ],
+      "export_size": [
+        1792,
+        897
+      ],
+      "master_size": [
+        4096,
+        2050
+      ],
+      "master_type": "upscaled and relit from approved source; not native 4K",
+      "mean_luma_before": 142.87,
+      "mean_luma_after": 160.3,
+      "master_bytes": 5361654,
+      "export_bytes": 1322092
+    },
+    {
+      "message": 7,
+      "file": "wa-7-quiche-lorraine.jpg",
+      "original_size": [
+        1792,
+        897
+      ],
+      "export_size": [
+        1792,
+        897
+      ],
+      "master_size": [
+        4096,
+        2050
+      ],
+      "master_type": "upscaled and relit from approved source; not native 4K",
+      "mean_luma_before": 110.28,
+      "mean_luma_after": 149.04,
+      "master_bytes": 4269167,
+      "export_bytes": 1089005
+    },
+    {
+      "message": 8,
+      "file": "wa-8-tour-de-france.jpg",
+      "original_size": [
+        1792,
+        897
+      ],
+      "export_size": [
+        1792,
+        897
+      ],
+      "master_size": [
+        4096,
+        2050
+      ],
+      "master_type": "upscaled and relit from approved source; not native 4K",
+      "mean_luma_before": 124.48,
+      "mean_luma_after": 145.2,
+      "master_bytes": 3962306,
+      "export_bytes": 969501
+    }
+  ]
+}

@@ -1,44 +1,43 @@
-# marketing_content_tricolour_en · The story behind blue, white and red
-**French Atelier by Acadomia - WhatsApp Message**
-
----
+# marketing_content_tricolour_b2_en · Why the French flag has three colours 🇫🇷
+**French Atelier by Acadomia - WhatsApp Batch 2**
 
 **Category:** Marketing drip (weekly, content)
-**Code:** `wa-5`
-**Trigger:** Weekly content drip, message 5
-**Header Text:** Blue, white and red · a story 🇫🇷
-**CTA Button:** See the full story
+**Code:** `b2-wa-5`
+**Trigger:** Weekly content drip, Batch 2, message 5
+**Header Text:** Why the French flag has three colours 🇫🇷
+**CTA Button:** Visit French Atelier
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 174 words
-
----
+**Word count:** 163
+**Body characters:** 991
+**Image:** images/wa-5-french-flag-crowd.jpg · 1792×897
 
 ## Message body
 
 ```
 Bonjour {{BODY_1}} 🇫🇷
 
-Before your next French Atelier class, a small French symbol.
+You are in a French town square as people gather for a celebration. Above the crowd, blue, white and red flags move in the breeze. You recognise the country immediately, but the colours also tell a story.
 
-Picture a July afternoon in Paris. The Champs-Élysées is a sea of small flags: blue, white and red, waving in every hand. The tricolour is such a familiar sight that it is easy to forget it has a story.
+During the French Revolution, blue and red, associated with Paris, were brought together with white, associated with the monarchy. The tricolour grew from that meeting of colours and became a lasting symbol of France.
 
-Blue and red were the colours of the city of Paris. White was the colour of the French monarchy. In July 1789, at the start of the French Revolution, the mayor of Paris pinned white between the two Parisian colours on a cockade for General Lafayette. Three colours, one nation, in a single gesture. Louis XVI wore it soon after, and the tricolour became the flag of a new France in 1794.
+Three words to notice next time you see it:
 
-A few useful words for the day:
-
-🇫🇷 *le drapeau* : the flag
+🇫🇷 *un drapeau* : a flag
+🇫🇷 *une couleur* : a colour
 🇫🇷 *la liberté* : freedom
-🇫🇷 *bleu, blanc, rouge* : blue, white, red
 
-Fun fact: the three stripes are equal today, but the very first flags had a slightly wider blue.
+Fun fact: the flag's present arrangement was adopted in 1794, with blue nearest the flagpole, white in the middle and red at the outer edge.
 
-Tap below for the full story, from your French Atelier teachers.
+Look around your own neighbourhood. Which colours appear on signs, doors or clothing? Naming them is a small French exercise you can do anywhere. At French Atelier, you can bring those everyday observations into a conversation with your teacher, one simple sentence at a time.
 ```
 
----
+## Production fields
 
-## Notes
+- Header: 40/60 characters.
+- Button: 20/25 characters.
+- Personalisation: `{{BODY_1}}` retained from Batch 1.
+- Image: the approved Batch 1 asset, unchanged.
+- CTA destination: the verified French Atelier website; no unpublished story page is implied.
+- Offer for messages 3 and 4: 20% in October and November respectively, as supplied in the brief.
 
-This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 32/60 chars, button text 18/25 chars.
-
-- French Atelier by Acadomia · hello@frenchatelierlive.com
+French Atelier by Acadomia · hello@frenchatelierlive.com

@@ -1,46 +1,45 @@
-# marketing_content_photography_200_en · 200 Years of Photography + Oct Promo
-**French Atelier by Acadomia - WhatsApp Message**
+# marketing_content_photography_b2_en · 200 years of photography 📷
+**French Atelier by Acadomia - WhatsApp Batch 2**
 
----
-
-**Category:** Marketing drip (weekly, content + promo)
-**Code:** `wa-3`
-**Trigger:** Weekly content drip, message 3 (October promo)
+**Category:** Marketing drip (weekly, promo)
+**Code:** `b2-wa-3`
+**Trigger:** Weekly content drip, Batch 2, message 3
 **Header Text:** 200 years of photography 📷
 **CTA Button:** Claim it now
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 169 words
-
----
+**Word count:** 156
+**Body characters:** 956
+**Image:** images/wa-3-photography-200years.jpg · 1792×897
 
 ## Message body
 
 ```
 Bonjour {{BODY_1}} 📷
 
-Between your French Atelier lessons, a small French moment.
+Try framing a view through a window. A roof, a courtyard, a patch of sky. Today you can capture it in a moment. Two centuries ago, making a lasting image was an experiment.
 
-This year, France is celebrating 200 years of photography. The story begins in a very quiet place.
+In 2026, France begins celebrating 200 years of photography. Nicéphore Niépce's view from a window at Le Gras, dated 1826 or 1827, is recognised as the oldest surviving camera photograph. Everyday surroundings became part of a remarkable French invention.
 
-In 1826, in a small village in Burgundy, Nicéphore Niépce placed a pewter plate in a wooden box and pointed it at the rooftops from his window. Eight hours later, he had the first surviving photograph in history. No filter, no screen, just light, silver and patience. Every selfie today is a distant cousin of that grainy French rooftop.
+Three words for describing a photograph in French:
 
-A few useful words for the moment:
-
-🇫🇷 *une photographie* : a photograph
-🇫🇷 *la lumière* : the light
+🇫🇷 *un appareil photo* : a camera
+🇫🇷 *la lumière* : light
 🇫🇷 *une image* : an image
 
-Fun fact: Niépce called his invention *héliographie*, from the Greek for sun writing. A very French way to name a machine.
+Fun fact: Niépce called his process heliography, meaning writing with the sun.
 
-And if you would like to discover more of France through its language this October, enjoy 20% off your French course at French Atelier. Live teachers, small classes, real Paris in every lesson.
+Choose a photograph you like and name one thing you can see. It is a simple way to practise before your next French Atelier class. Start with a short sentence.
 
-Tap below to claim your 20% now.
+For October, enjoy 20% off your French Atelier course and practise French in live online classes with native French teachers.
 ```
 
----
+## Production fields
 
-## Notes
+- Header: 26/60 characters.
+- Button: 12/25 characters.
+- Personalisation: `{{BODY_1}}` retained from Batch 1.
+- Image: the approved Batch 1 asset, unchanged.
+- CTA destination: the verified French Atelier website; no unpublished story page is implied.
+- Offer for messages 3 and 4: 20% in October and November respectively, as supplied in the brief.
 
-This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 27/60 chars, button text 12/25 chars. Promo separate at end per brief line 082.
-
-- French Atelier by Acadomia · hello@frenchatelierlive.com
+French Atelier by Acadomia · hello@frenchatelierlive.com

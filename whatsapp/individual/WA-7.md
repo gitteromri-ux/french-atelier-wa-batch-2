@@ -1,46 +1,43 @@
-# marketing_content_quiche_lorraine_en · Quiche Lorraine, warm from the oven
-**French Atelier by Acadomia - WhatsApp Message**
-
----
+# marketing_content_quiche_lorraine_b2_en · Make a quiche in Lorraine 🥧
+**French Atelier by Acadomia - WhatsApp Batch 2**
 
 **Category:** Marketing drip (weekly, content)
-**Code:** `wa-7`
-**Trigger:** Weekly content drip, message 7
-**Header Text:** Quiche Lorraine, warm from the oven 🥧
-**CTA Button:** See the full story
+**Code:** `b2-wa-7`
+**Trigger:** Weekly content drip, Batch 2, message 7
+**Header Text:** Make a quiche in Lorraine 🥧
+**CTA Button:** Visit French Atelier
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 173 words
-
----
+**Word count:** 162
+**Body characters:** 957
+**Image:** images/wa-7-quiche-lorraine.jpg · 1792×897
 
 ## Message body
 
 ```
 Bonjour {{BODY_1}} 🥧
 
-Between your French Atelier lessons, a French kitchen story.
+In a cooking class in Lorraine, in northeastern France, you press pastry into a tin while small pieces of bacon sizzle nearby. On the table, eggs and cream are ready to become the filling.
 
-Imagine a stone farmhouse in Lorraine, in the east of France. Flour dusts the wooden table, the oven hums, and a Quiche Lorraine slides out golden, still bubbling in its tin.
+As the quiche bakes, the pastry turns golden and a savoury aroma fills the room. Your first bite brings crisp edges and a soft, creamy centre. It is a useful moment to connect French words with something you can touch, smell and taste.
 
-You pull one warm slice onto a plate. Buttery pastry, smoky lardons of bacon, a slow cream and egg custard that trembles just a little as your knife goes in. It smells of black pepper, fresh nutmeg and a quiet Sunday lunch that has been made this way for generations.
+Three ingredients to remember:
 
-A few useful words at the table:
+🇫🇷 *la pâte* : pastry
+🇫🇷 *les œufs* : eggs
+🇫🇷 *la crème* : cream
 
-🇫🇷 *la pâte* : the pastry
-🇫🇷 *les œufs* : the eggs
-🇫🇷 *la crème* : the cream
+Fun fact: traditional quiche Lorraine is made without cheese. The familiar combination is pastry, eggs, cream and bacon.
 
-Fun fact: the traditional Lorraine recipe has no cheese at all. Gruyère quietly slipped in over time. Purists in Metz and Nancy still argue about it, kindly, over a second slice of the same quiche.
-
-Ask your French Atelier teacher how her family makes theirs.
-
-Tap below for the full story, from your French Atelier teachers.
+Think about a dish you prepare at home. Can you name three ingredients in French? Practise saying them before your next French Atelier class, then ask your teacher about any words you are missing. There is no need to explain the whole recipe; a short description is a good place to start.
 ```
 
----
+## Production fields
 
-## Notes
+- Header: 27/60 characters.
+- Button: 20/25 characters.
+- Personalisation: `{{BODY_1}}` retained from Batch 1.
+- Image: the approved Batch 1 asset, unchanged.
+- CTA destination: the verified French Atelier website; no unpublished story page is implied.
+- Offer for messages 3 and 4: 20% in October and November respectively, as supplied in the brief.
 
-This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 38/60 chars, button text 18/25 chars.
-
-- French Atelier by Acadomia · hello@frenchatelierlive.com
+French Atelier by Acadomia · hello@frenchatelierlive.com

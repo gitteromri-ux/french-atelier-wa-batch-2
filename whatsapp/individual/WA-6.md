@@ -1,44 +1,43 @@
-# marketing_content_monet_en · A quiet minute with Monet
-**French Atelier by Acadomia - WhatsApp Message**
-
----
+# marketing_content_monet_b2_en · See light differently with Monet 🎨
+**French Atelier by Acadomia - WhatsApp Batch 2**
 
 **Category:** Marketing drip (weekly, content)
-**Code:** `wa-6`
-**Trigger:** Weekly content drip, message 6
-**Header Text:** A quiet minute with Monet 🎨
-**CTA Button:** See the full story
+**Code:** `b2-wa-6`
+**Trigger:** Weekly content drip, Batch 2, message 6
+**Header Text:** See light differently with Monet 🎨
+**CTA Button:** Visit French Atelier
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 174 words
-
----
+**Word count:** 158
+**Body characters:** 966
+**Image:** images/wa-6-monet-painting.jpg · 1792×897
 
 ## Message body
 
 ```
 Bonjour {{BODY_1}} 🎨
 
-Between your French Atelier lessons, a walk through a very quiet Paris museum.
+Walk through the Musée Marmottan Monet in Paris and pause before Impression, Sunrise. A small orange sun hangs over the harbour. Boats and reflections emerge from loose touches of colour rather than sharp outlines.
 
-Step into the Musée Marmottan Monet, in the calm 16th arrondissement. The floors are quiet, the walls a soft cream. Turn one corner and there it is: *Impression, soleil levant*, the little harbour view that gave a whole movement its name in 1874.
+Claude Monet was interested in how a place looks at a particular moment. Light changes, water moves, and the same view can feel different a little later. Looking closely at his painting gives you something simple to describe, even with a few French words.
 
-Walk slowly. Water lilies drift across the next room, willows lean over a soft green Japanese bridge, a single haystack quietly changes colour hour by hour. Monet was not painting things. He was painting the light on the things.
+Try these in your next French Atelier conversation:
 
-A few useful words as you walk:
-
-🇫🇷 *la lumière* : the light
+🇫🇷 *la lumière* : light
 🇫🇷 *un reflet* : a reflection
 🇫🇷 *un paysage* : a landscape
 
-Fun fact: Monet planted the whole garden at Giverny himself before he painted it. The pond, the bridge, the water lilies, all his. The paintings are, in a way, portraits of a garden he grew with his own hands.
+Fun fact: the title of Impression, Sunrise inspired the name Impressionism after the painting appeared in an exhibition in 1874.
 
-Tap below for the full story, from your French Atelier teachers.
+Look out of a window now. Is the light bright or soft? Can you see a reflection? Choose one detail and describe it aloud. Your French Atelier teacher can help you find the words to describe what you see.
 ```
 
----
+## Production fields
 
-## Notes
+- Header: 34/60 characters.
+- Button: 20/25 characters.
+- Personalisation: `{{BODY_1}}` retained from Batch 1.
+- Image: the approved Batch 1 asset, unchanged.
+- CTA destination: the verified French Atelier website; no unpublished story page is implied.
+- Offer for messages 3 and 4: 20% in October and November respectively, as supplied in the brief.
 
-This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 29/60 chars, button text 18/25 chars.
-
-- French Atelier by Acadomia · hello@frenchatelierlive.com
+French Atelier by Acadomia · hello@frenchatelierlive.com

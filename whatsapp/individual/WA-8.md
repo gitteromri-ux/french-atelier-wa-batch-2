@@ -1,46 +1,43 @@
-# marketing_content_tour_de_france_en · The Tour, high in the Pyrenees
-**French Atelier by Acadomia - WhatsApp Message**
-
----
+# marketing_content_tour_de_france_b2_en · Follow the Tour into the Pyrenees 🚴
+**French Atelier by Acadomia - WhatsApp Batch 2**
 
 **Category:** Marketing drip (weekly, content)
-**Code:** `wa-8`
-**Trigger:** Weekly content drip, message 8
-**Header Text:** The Tour, high in the Pyrenees 🚴
-**CTA Button:** See the full story
+**Code:** `b2-wa-8`
+**Trigger:** Weekly content drip, Batch 2, message 8
+**Header Text:** Follow the Tour into the Pyrenees 🚴
+**CTA Button:** Visit French Atelier
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 173 words
-
----
+**Word count:** 162
+**Body characters:** 952
+**Image:** images/wa-8-tour-de-france.jpg · 1792×897
 
 ## Message body
 
 ```
 Bonjour {{BODY_1}} 🚴
 
-Between your French Atelier lessons, a moment on a French mountain road.
+You're waiting beside a mountain road in the Pyrenees. People clap as the first riders round a bend. Behind them, the road drops towards the valley. For spectators, a Tour de France stage is also a day spent together outdoors.
 
-High in the Pyrenees, the road narrows and the air thins. Villagers line the pass with cowbells and small flags. A hush, then a flash of colour: yellow, polka-dots, green, all climbing together into the clouds. This is the Tour de France on a mountain stage.
+Look for the distinctive jerseys in the group. Yellow marks the overall leader, green the points leader, and white with red polka dots the leader of the mountains classification. Each colour tells you something different about the race.
 
-Born in 1903 as a way to sell more newspapers, the Tour became something bigger: three weeks every July, a moving portrait of France itself. Farmers, coastlines, cathedrals, cols. The country is watching the country.
+Three words to practise before your next French Atelier class:
 
-A few useful words as the peloton passes:
+🇫🇷 *un vélo* : a bicycle
+🇫🇷 *un sommet* : a summit
+🇫🇷 *un maillot* : a jersey
 
-🇫🇷 *le vélo* : the bicycle
-🇫🇷 *la montagne* : the mountain
-🇫🇷 *le maillot jaune* : the yellow jersey
+Fun fact: the Tour first took riders into the high mountains of the Pyrenees in 1910.
 
-Fun fact: the yellow jersey is yellow because the newspaper that created the Tour, *L'Auto*, was printed on bright yellow paper. A colour chosen by a publisher, worn by legends.
-
-Ask your French Atelier teacher which stage she loves most.
-
-Tap below for the full story, from your French Atelier teachers.
+Families and friends gather along the route to cheer the riders on. Would you choose a mountain stage or a finish in town? Try giving one reason in French. Your teacher can help you describe the setting, even if cycling is new to you.
 ```
 
----
+## Production fields
 
-## Notes
+- Header: 35/60 characters.
+- Button: 20/25 characters.
+- Personalisation: `{{BODY_1}}` retained from Batch 1.
+- Image: the approved Batch 1 asset, unchanged.
+- CTA destination: the verified French Atelier website; no unpublished story page is implied.
+- Offer for messages 3 and 4: 20% in October and November respectively, as supplied in the brief.
 
-This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 33/60 chars, button text 18/25 chars.
-
-- French Atelier by Acadomia · hello@frenchatelierlive.com
+French Atelier by Acadomia · hello@frenchatelierlive.com

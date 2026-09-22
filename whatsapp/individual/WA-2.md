@@ -1,46 +1,43 @@
-# marketing_content_amelie_en · One minute in Montmartre with Amélie
-**French Atelier by Acadomia - WhatsApp Message**
-
----
+# marketing_content_amelie_b2_en · Explore Montmartre with Amélie 🎬
+**French Atelier by Acadomia - WhatsApp Batch 2**
 
 **Category:** Marketing drip (weekly, content)
-**Code:** `wa-2`
-**Trigger:** Weekly content drip, message 2
-**Header Text:** One minute in Montmartre 🎬
-**CTA Button:** See the full story
+**Code:** `b2-wa-2`
+**Trigger:** Weekly content drip, Batch 2, message 2
+**Header Text:** Explore Montmartre with Amélie 🎬
+**CTA Button:** Visit French Atelier
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 168 words
-
----
+**Word count:** 156
+**Body characters:** 947
+**Image:** images/wa-2-amelie-montmartre.jpg · 1792×897
 
 ## Message body
 
 ```
 Bonjour {{BODY_1}} 🎬
 
-Between your French Atelier lessons, a soft Parisian pause.
+Take a short walk through Montmartre. You pass a café window, hear cups settling onto saucers and watch someone stop to greet a neighbour. It is an ordinary Paris morning, the sort of small moment Amélie invites us to notice.
 
-Walk up the cobbled stairs of Montmartre and you are already inside her film. Red awnings, green café chairs, the little bakery on the corner. Amélie Poulain lived here in 2001, and half the world quietly moved in with her.
+In the 2001 film, Audrey Tautou plays a waitress who quietly tries to improve other people's lives. Director Jean-Pierre Jeunet's colourful Montmartre helped make the neighbourhood known beyond France. It shows French cinema's playful side.
 
-Audrey Tautou played her: a Parisian waitress who decides, one small kindness at a time, to make people happier. Director Jean-Pierre Jeunet gave every scene a warm red and green glow, and suddenly Paris looked like a film set again.
+Three words to try between French Atelier classes:
 
-Take a few of her words with you:
+🇫🇷 *un quartier* : a neighbourhood
+🇫🇷 *un voisin* : a neighbour
+🇫🇷 *un sourire* : a smile
 
-🇫🇷 *la vie* : life
-🇫🇷 *un rêve* : a dream
-🇫🇷 *sourire* : to smile
+Fun fact: the Café des 2 Moulins, where Amélie works in the film, is a real café on rue Lepic.
 
-Fun fact: the real Café des 2 Moulins on rue Lepic still serves crème brûlée at the counter where Amélie worked. Locals sit there quite calmly, as if a movie never happened.
-
-Ask your French Atelier teacher for her favourite line from the film.
-
-Tap below for the full story, from your French Atelier teachers.
+Think of a small kindness you noticed recently. Could you describe the person or the place in French? Start with one short sentence. Your French Atelier teacher can help you find the words to add a little more detail.
 ```
 
----
+## Production fields
 
-## Notes
+- Header: 32/60 characters.
+- Button: 20/25 characters.
+- Personalisation: `{{BODY_1}}` retained from Batch 1.
+- Image: the approved Batch 1 asset, unchanged.
+- CTA destination: the verified French Atelier website; no unpublished story page is implied.
+- Offer for messages 3 and 4: 20% in October and November respectively, as supplied in the brief.
 
-This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 27/60 chars, button text 18/25 chars.
-
-- French Atelier by Acadomia · hello@frenchatelierlive.com
+French Atelier by Acadomia · hello@frenchatelierlive.com

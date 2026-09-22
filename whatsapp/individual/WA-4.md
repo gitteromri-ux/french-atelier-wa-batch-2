@@ -1,44 +1,45 @@
-# marketing_content_novembre_numerique_en · Novembre Numérique + Nov Promo
-**French Atelier by Acadomia - WhatsApp Message**
+# marketing_content_novembre_numerique_b2_en · Discover Novembre Numérique 💡
+**French Atelier by Acadomia - WhatsApp Batch 2**
 
----
-
-**Category:** Marketing drip (weekly, content + promo)
-**Code:** `wa-4`
-**Trigger:** Weekly content drip, message 4 (November promo)
-**Header Text:** Novembre Numérique · 10 years ✨
+**Category:** Marketing drip (weekly, promo)
+**Code:** `b2-wa-4`
+**Trigger:** Weekly content drip, Batch 2, message 4
+**Header Text:** Discover Novembre Numérique 💡
 **CTA Button:** Claim it now
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 170 words
-
----
+**Word count:** 161
+**Body characters:** 986
+**Image:** images/wa-4-novembre-numerique.jpg · 1792×897
 
 ## Message body
 
 ```
-Bonjour {{BODY_1}} ✨
+Bonjour {{BODY_1}} 💡
 
-Between your French Atelier lessons, a small French moment.
+Step inside a digital art exhibition. Colours move across a wall, a shape changes as you approach, and a screen invites you to explore. French culture is being made here too, not only in books and museums.
 
-Every November, the French cultural network lights up for Novembre Numérique, a month that celebrates digital culture and creativity across France and in French institutes around the world. 2026 marks its 10th edition.
+Every November, Novembre Numérique shares digital culture through the French cultural network abroad. In 2026, the festival reaches its tenth edition. You can discover how artists use technology to create experiences and invite us to take part.
 
-It brings artists, writers, coders and readers together around one simple idea: French culture and digital innovation are quietly building something beautiful, side by side. Expect creative workshops, digital exhibitions and readings that live as much online as they do on a stage.
+Three words for talking about what you see:
 
-A few useful words for the moment:
-
-🇫🇷 *le numérique* : the digital
-🇫🇷 *la création* : creation
+🇫🇷 *un écran* : a screen
+🇫🇷 *créer* : to create
 🇫🇷 *une œuvre* : a work of art
 
-Every November, Novembre Numérique celebrates how digital technology is changing the way we create, experience culture and learn. And if French is something you would like to learn in a new way, enjoy 20% off your online French course at French Atelier this November. Live teachers, small classes, one warm hour of Paris each week.
+Fun fact: numérique is the French word for digital, so the festival's name means Digital November.
 
-Tap below to claim your 20% now.
+Would you rather look at an artwork or interact with it? Try explaining your choice in one French sentence. You can practise the words with your French Atelier teacher.
+
+For November, enjoy 20% off your French Atelier course and learn with native French teachers in live online classes.
 ```
 
----
+## Production fields
 
-## Notes
+- Header: 29/60 characters.
+- Button: 12/25 characters.
+- Personalisation: `{{BODY_1}}` retained from Batch 1.
+- Image: the approved Batch 1 asset, unchanged.
+- CTA destination: the verified French Atelier website; no unpublished story page is implied.
+- Offer for messages 3 and 4: 20% in October and November respectively, as supplied in the brief.
 
-This message follows Meta's WhatsApp Business template rules. Variables in `{{double_braces}}` follow Bird/CP-WhatsApp template syntax. Header text 33/60 chars, button text 12/25 chars. Promo separate at end per brief line 104.
-
-- French Atelier by Acadomia · hello@frenchatelierlive.com
+French Atelier by Acadomia · hello@frenchatelierlive.com

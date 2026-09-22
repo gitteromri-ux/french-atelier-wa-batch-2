@@ -73,7 +73,24 @@ h1 em { font-style:italic; color:var(--gold); }
 footer { text-align:center; margin-top:64px; padding-top:32px; border-top:1px solid rgba(11,19,64,0.14); color:var(--navy); font-size:13px; opacity:.7; }
 footer .brand { color:var(--gold); }
 </style>
-</head>
+<style id="functional-repairs">
+/* Rendering repairs only: approved colours, fonts, logo and CTA labels retained. */
+.card-body{grid-template-columns:400px minmax(0,1fr)}
+.phone-col,.meta-col,.phone,.phone-inner,.fval{min-width:0}
+.phone{max-width:100%}
+.phone-scroll{max-height:none;overflow:visible}
+.phone-scroll>*{flex-shrink:0}
+.frow{grid-template-columns:150px minmax(0,1fr)}
+.fval{overflow-wrap:anywhere}
+.wa-btn{display:block;text-decoration:none}
+.manifest{overflow-x:auto}
+@media(max-width:900px){.card-body{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:600px){
+ .phone-col{padding:28px 16px}
+ .meta-col{padding:28px 20px}
+ .frow{grid-template-columns:90px minmax(0,1fr);gap:12px}
+}
+</style></head>
 <body>
 <div class="wrap">
 <header class="brand-header">
@@ -129,9 +146,9 @@ footer .brand { color:var(--gold); }
 <div class="phone-top">French Atelier <span>WhatsApp Business</span></div>
 <div class="phone-scroll">
 <div class="bubble header-b">Victor Hugo and Notre-Dame</div>
-<div class="wa-media"><img alt="" src="images/wa-1-notredame-hugo.jpg"/></div>
+<div class="wa-media"><img alt="Victor Hugo · Notre-Dame" height="897" src="images/wa-1-notredame-hugo.jpg" width="1792"/></div>
 <div class="bubble">Bonjour {{BODY_1}} 📖<br/>From French Atelier by Acadomia, your live online French school.<br/><br/>Look up at Notre-Dame in Paris. These towers are part of Victor Hugo's world in The Hunchback of Notre-Dame, where the bell ringer Quasimodo asks us to look past how a person seems.<br/><br/>In Les Misérables, Hugo follows Jean Valjean through a life shaped by need, mercy and hope. His books give us a way to talk about who gets a fair chance and who is left out.<br/><br/>Three words to keep: <em>un personnage</em> means a character, <em>une histoire</em> a story, and <em>un écrivain</em> a writer.<br/><br/>Fun fact: the French title of The Hunchback of Notre-Dame is Notre-Dame de Paris, named for the cathedral.<br/><br/>Which book character stays with you? Try one short French sentence about them. You do not need to retell the whole book to share a thought.<br/><br/>Find out who we are on the French Atelier website.</div>
-<div class="wa-btn">See the full story</div>
+<a class="wa-btn" href="https://www.frenchatelierlive.com" rel="noopener noreferrer" target="_blank">See the full story</a>
 </div>
 </div></div>
 </div>
@@ -163,9 +180,9 @@ footer .brand { color:var(--gold); }
 <div class="phone-top">French Atelier <span>WhatsApp Business</span></div>
 <div class="phone-scroll">
 <div class="bubble header-b">Amélie in Montmartre</div>
-<div class="wa-media"><img alt="" src="images/wa-2-amelie-montmartre.jpg"/></div>
+<div class="wa-media"><img alt="Amélie · Montmartre" height="897" src="images/wa-2-amelie-montmartre.jpg" width="1792"/></div>
 <div class="bubble">Bonjour {{BODY_1}} 🎬<br/>From French Atelier by Acadomia, your live online French school.<br/><br/>Walk past a café in Montmartre, Paris. Cups clink and a neighbour stops to say hello. Small acts of kindness are at the heart of Amélie, the film in which Audrey Tautou plays a waitress who helps other people.<br/><br/>Its warm, playful style shaped how viewers abroad saw Paris and French cinema. A smile or a kind act can change how a day feels, even when little else has changed.<br/><br/>In the film's dialogue, <em>la vie</em> means life, <em>un rêve</em> a dream, and <em>un miracle</em> a miracle. Use them to describe a scene or a small moment from your own day.<br/><br/>Fun fact: the Café des 2 Moulins in the film is a real café on rue Lepic.<br/><br/>What small kind act did you notice today? Try to name it in French.<br/><br/>Find out who we are on the French Atelier website.</div>
-<div class="wa-btn">See the full story</div>
+<a class="wa-btn" href="https://www.frenchatelierlive.com" rel="noopener noreferrer" target="_blank">See the full story</a>
 </div>
 </div></div>
 </div>
@@ -198,9 +215,9 @@ footer .brand { color:var(--gold); }
 <div class="phone-top">French Atelier <span>WhatsApp Business</span></div>
 <div class="phone-scroll">
 <div class="bubble header-b">France and early photography</div>
-<div class="wa-media"><img alt="" src="images/wa-3-photography-200years.jpg"/></div>
+<div class="wa-media"><img alt="200 years of photography · October" height="897" src="images/wa-3-photography-200years.jpg" width="1792"/></div>
 <div class="bubble">Bonjour {{BODY_1}} 📷<br/>From French Atelier by Acadomia, your live online French school.<br/><br/>Frame a view through a window: a roof, a wall, a patch of sky. A photo takes a moment now. For Nicéphore Niépce, fixing a view in an image was a new challenge.<br/><br/>His view at Le Gras, dated 1826 or 1827, is the oldest surviving camera photograph. In 2026, France begins celebrating 200 years of photography and its French roots.<br/><br/>Three words to try: <em>un appareil photo</em> means a camera, <em>la lumière</em> light, and <em>une image</em> an image.<br/><br/>Fun fact: Niépce called his method heliography, or writing with the sun.<br/><br/>Look at a photo you like. What do you see first? Name one thing in French, then add a colour and say where the object sits. A few words can help you look at a familiar view in a new way.<br/><br/>For October, enjoy 20% off your French Atelier course.</div>
-<div class="wa-btn">Claim it now</div>
+<a class="wa-btn" href="https://www.frenchatelierlive.com" rel="noopener noreferrer" target="_blank">Claim it now</a>
 </div>
 </div></div>
 </div>
@@ -233,9 +250,9 @@ footer .brand { color:var(--gold); }
 <div class="phone-top">French Atelier <span>WhatsApp Business</span></div>
 <div class="phone-scroll">
 <div class="bubble header-b">Novembre Numérique</div>
-<div class="wa-media"><img alt="" src="images/wa-4-novembre-numerique.jpg"/></div>
+<div class="wa-media"><img alt="Novembre Numérique · November" height="897" src="images/wa-4-novembre-numerique.jpg" width="1792"/></div>
 <div class="bubble">Bonjour {{BODY_1}} 💡<br/>From French Atelier by Acadomia, your live online French school.<br/><br/>At a digital art show, light moves across a wall and a shape shifts on a screen. Art can ask us to take part, not just stand and look.<br/><br/>Novembre Numérique celebrates digital culture and creativity across the French cultural network each November. In 2026, it marks its tenth edition. It is a way to explore how French culture meets new tools and ideas.<br/><br/>Three words to try: <em>un écran</em> means a screen, <em>créer</em> to create, and <em>une œuvre</em> a work of art.<br/><br/>Fun fact: numérique means digital, so the name means Digital November.<br/><br/>Would you rather look at a work of art or help it change? Try to give one reason in French. Start with what you see or feel, then name a colour or a shape. You do not need to know how the tools work.<br/><br/>For November, enjoy 20% off your French Atelier course.</div>
-<div class="wa-btn">Claim it now</div>
+<a class="wa-btn" href="https://www.frenchatelierlive.com" rel="noopener noreferrer" target="_blank">Claim it now</a>
 </div>
 </div></div>
 </div>
@@ -267,9 +284,9 @@ footer .brand { color:var(--gold); }
 <div class="phone-top">French Atelier <span>WhatsApp Business</span></div>
 <div class="phone-scroll">
 <div class="bubble header-b">The French flag</div>
-<div class="wa-media"><img alt="" src="images/wa-5-french-flag-crowd.jpg"/></div>
+<div class="wa-media"><img alt="The French tricolour" height="897" src="images/wa-5-french-flag-crowd.jpg" width="1792"/></div>
 <div class="bubble">Bonjour {{BODY_1}} 🇫🇷<br/>From French Atelier by Acadomia, your live online French school.<br/><br/>In a town square, blue, white and red flags rise above the crowd. You know which country they stand for. But why do these three colours share one flag?<br/><br/>During the French Revolution, blue and red, linked to Paris, came together with white, linked to the monarchy. The tricolour became a symbol of France, carrying a piece of that history into daily life.<br/><br/>Three words to notice: <em>un drapeau</em> means a flag, <em>une couleur</em> a colour, and <em>la liberté</em> freedom.<br/><br/>Fun fact: the current order of the colours dates to 1794. Blue is next to the pole, white in the middle and red at the edge.<br/><br/>Look at a flag near you. Which colour would you name first in French? Try to describe where it sits, then say which colour is beside it.<br/><br/>Find out who we are on the French Atelier website.</div>
-<div class="wa-btn">See the full story</div>
+<a class="wa-btn" href="https://www.frenchatelierlive.com" rel="noopener noreferrer" target="_blank">See the full story</a>
 </div>
 </div></div>
 </div>
@@ -301,9 +318,9 @@ footer .brand { color:var(--gold); }
 <div class="phone-top">French Atelier <span>WhatsApp Business</span></div>
 <div class="phone-scroll">
 <div class="bubble header-b">Claude Monet: water and light</div>
-<div class="wa-media"><img alt="" src="images/wa-6-monet-painting.jpg"/></div>
+<div class="wa-media"><img alt="Claude Monet · Musée Marmottan Monet" height="897" src="images/wa-6-monet-painting.jpg" width="1792"/></div>
 <div class="bubble">Bonjour {{BODY_1}} 🎨<br/>From French Atelier by Acadomia, your live online French school.<br/><br/>Walk through the Musée Marmottan Monet in Paris. As you look at Monet's work, notice how water and light can guide your eye. A patch of colour may say more than a sharp line.<br/><br/>Monet painted the way a view feels at a moment in time. Light shifts, water moves and a scene you know can seem new. You can look for those changes without knowing much about art.<br/><br/>Three words to try: <em>la lumière</em> means light, <em>un reflet</em> a reflection, and <em>un paysage</em> a landscape.<br/><br/>Fun fact: the title of Monet's painting Impression, Sunrise helped give Impressionism its name after the 1874 show.<br/><br/>Look out of a window. Is the light soft or bright? Pick one small detail and try to name it in French. A simple word is a good start.<br/><br/>Find out who we are on the French Atelier website.</div>
-<div class="wa-btn">See the full story</div>
+<a class="wa-btn" href="https://www.frenchatelierlive.com" rel="noopener noreferrer" target="_blank">See the full story</a>
 </div>
 </div></div>
 </div>
@@ -335,9 +352,9 @@ footer .brand { color:var(--gold); }
 <div class="phone-top">French Atelier <span>WhatsApp Business</span></div>
 <div class="phone-scroll">
 <div class="bubble header-b">A taste of quiche Lorraine</div>
-<div class="wa-media"><img alt="" src="images/wa-7-quiche-lorraine.jpg"/></div>
+<div class="wa-media"><img alt="Quiche Lorraine" height="897" src="images/wa-7-quiche-lorraine.jpg" width="1792"/></div>
 <div class="bubble">Bonjour {{BODY_1}} 🥧<br/>From French Atelier by Acadomia, your live online French school.<br/><br/>Imagine joining a cooking class in Lorraine, in northeastern France. You press pastry into a tin while eggs and cream wait on the table beside you.<br/><br/>Eggs, cream and bacon fill the pastry, sending a rich, savoury scent through the room as the crust turns crisp around a soft centre.<br/><br/>Three words for the table: <em>la pâte</em> means pastry, <em>les œufs</em> eggs, and <em>la crème</em> cream. Say each one as you think of the ingredient, then try to name it without looking.<br/><br/>Fun fact: early quiche Lorraine was made with bread dough rather than the pastry commonly used today.<br/><br/>What dish do you make at home? Pick three ingredients and try to name them in French. You do not need to explain each step of the recipe. Start with what goes into the dish.<br/><br/>Find out who we are on the French Atelier website.</div>
-<div class="wa-btn">See the full story</div>
+<a class="wa-btn" href="https://www.frenchatelierlive.com" rel="noopener noreferrer" target="_blank">See the full story</a>
 </div>
 </div></div>
 </div>
@@ -369,9 +386,9 @@ footer .brand { color:var(--gold); }
 <div class="phone-top">French Atelier <span>WhatsApp Business</span></div>
 <div class="phone-scroll">
 <div class="bubble header-b">The Tour de France in the Pyrenees</div>
-<div class="wa-media"><img alt="" src="images/wa-8-tour-de-france.jpg"/></div>
+<div class="wa-media"><img alt="Tour de France · The Pyrenees" height="897" src="images/wa-8-tour-de-france.jpg" width="1792"/></div>
 <div class="bubble">Bonjour {{BODY_1}} 🚴<br/>From French Atelier by Acadomia, your live online French school.<br/><br/>Beside a road in the Pyrenees, the crowd waits for the Tour de France. A rider on <em>un vélo</em>, a bicycle, rounds the bend. Ahead lies <em>un sommet</em>, a summit, and a long climb.<br/><br/>You spot <em>un maillot</em>, a jersey, bright against the hills. Yellow marks the overall leader. Fans cheer as the riders pass, then turn to watch the next group come into view.<br/><br/>The Tour is more than a race. It brings towns, families and friends to the roadside and puts France's landscapes at the heart of a shared summer tradition.<br/><br/>Fun fact: the Tour first reached the high mountains of the Pyrenees in 1910.<br/><br/>Would you watch on a hill or in a town? Try to give one reason in French. Think of the view, the crowd or the ride.<br/><br/>Find out who we are on the French Atelier website.</div>
-<div class="wa-btn">See the full story</div>
+<a class="wa-btn" href="https://www.frenchatelierlive.com" rel="noopener noreferrer" target="_blank">See the full story</a>
 </div>
 </div></div>
 </div>

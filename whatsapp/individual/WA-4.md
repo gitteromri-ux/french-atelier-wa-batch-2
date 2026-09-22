@@ -1,16 +1,15 @@
 # marketing_content_novembre_numerique_b2_en · Novembre Numérique
-French Atelier by Acadomia · WhatsApp Batch 2
+**French Atelier by Acadomia - WhatsApp Message**
 
-**Category:** Marketing drip (weekly, promo)
+---
+
+**Category:** Marketing drip (weekly, content + promo)
 **Code:** `b2-wa-4`
 **Trigger:** Weekly content drip, Batch 2, message 4
 **Header Text:** Novembre Numérique
 **CTA Button:** Claim it now
 **CTA URL/Action:** https://www.frenchatelierlive.com
-**Word count:** 161
-**Body characters:** 888 · UTF-16 units: 889
-**Image:** images/wa-4-novembre-numerique.jpg · 1792 × 897
-**Upscaled master:** images-4k/wa-4-novembre-numerique.jpg · 4096 × 2050
+**Word count:** 159 words
 
 ---
 
@@ -18,7 +17,6 @@ French Atelier by Acadomia · WhatsApp Batch 2
 
 ```
 Bonjour {{BODY_1}} 💡
-*Novembre Numérique*
 From French Atelier by Acadomia, your live online French school.
 
 At a digital art show, light moves across a wall and a shape shifts on a screen. Art can ask us to take part, not just stand and look.
@@ -38,9 +36,6 @@ For November, enjoy 20% off your French Atelier course.
 
 ## Notes
 
-- Image is the sole Meta header component. The Header Text above is an editorial headline included in the body count, not an additional TEXT header.
-- Personalisation token {{BODY_1}} is retained from the approved handoff. The receiving platform must confirm its mapping; this file is not a validated API payload.
-- Sender identity shown in the gallery is a preview; the actual WhatsApp Business profile has not been checked.
-- The image preserves the approved Batch 1 composition with brighter tonal treatment. The 4096 × 2050 master is upscaled, not native 4K.
-- CTA opens the school homepage. This is NOT a verified 20% redemption destination. Do not activate this promo until the destination and offer terms are confirmed.
-- No ActiveCampaign fields, automations, recipients or schedules have been changed.
+Batch 2 follows the approved Batch 1 handoff format. Personalisation `{{BODY_1}}` and CTA destination are retained. Header text 18/60 chars, button text 12/25 chars. Provider mapping and template approval have not been tested.
+
+- French Atelier by Acadomia · hello@frenchatelierlive.com
